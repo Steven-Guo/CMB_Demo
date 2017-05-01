@@ -1,0 +1,6 @@
+framework module Pods_CMB_Demo {
+  umbrella header "Pods-CMB Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
